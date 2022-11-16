@@ -1,0 +1,11 @@
+
+Projet my movie :
+localhost:8080/getActors
+localhost:8080/getFilms
+localhost:8080/getFilmByTitre
+localhost:8080/getActors
+localhost:8080/getActorByName
+localhost:8080/getFilmsByDate
+localhost:8080/getActorsByFilm
+
+
